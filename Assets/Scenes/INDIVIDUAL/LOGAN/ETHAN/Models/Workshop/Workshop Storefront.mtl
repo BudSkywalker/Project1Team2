@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.113183908)
+
+newmtl Main_Buliding
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl Roof_Thingy
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl Da_Chimney
+kd 0.5 0.5 0.5
+illum 1
+
